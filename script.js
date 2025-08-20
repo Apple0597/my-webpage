@@ -88,4 +88,3 @@ secondVideoPlayBtn.addEventListener("click", function () {
     secondPause = 0
   }
 })
-
